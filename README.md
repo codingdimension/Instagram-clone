@@ -1,22 +1,22 @@
 # Instagram-clone
 ## strurcre and hierarchy
 
-  lib/
-models/
-post.dart
-user.dart
-screens/
-home_screen.dart
-post_screen.dart
-profile_screen.dart
-login_screen.dart
-signup_screen.dart
-services/
-auth_service.dart
-database_service.dart
-storage_service.dart
-widgets/
-post_tile.dart
-app_bar.dart
-custom_button.dart
+  lib/ </br>
+models/ </br>
+post.dart </br>
+user.dart </br>
+screens/ </br>
+home_screen.dart </br>
+post_screen.dart </br>
+profile_screen.dart </br>
+login_screen.dart </br>
+signup_screen.dart </br>
+services/ </br>
+auth_service.dart </br> </br>
+database_service.dart </br>
+storage_service.dart </br>
+widgets/ </br>
+post_tile.dart </br>
+app_bar.dart </br>
+custom_button.dart </br>
 main.dart
